@@ -13,3 +13,4 @@
 - Print 2 copies of {{file}} on {{printer}}:
 
 `lpr -# 2 -P {{printer}} {{file}}`
+
